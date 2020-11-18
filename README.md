@@ -3,7 +3,6 @@
 ## LOCAL SETUP
 1. install dependencies
 ```
-$ sudo npm i -g react-native-cli
 $ cd <project_dir>
 $ npm install
 ```
@@ -11,11 +10,11 @@ $ npm install
 
 Run app on ios simulator
 ```
-$ react-native run-ios
+$ npx react-native run-ios
 ```
 Run app on android simulator
 ```
-$ react-native run-android
+$ npx react-native run-android
 ```
 
 #### Reference
