@@ -7,7 +7,7 @@ $ sudo npm i -g react-native-cli
 $ cd <project_dir>
 $ npm install
 ```
-3. Open a new terminal. 
+3. Open a terminal. 
 
 Run app on ios simulator
 ```
